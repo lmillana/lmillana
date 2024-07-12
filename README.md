@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Leyre</h1>
 <h3 align="center">A passionate and experienced cybersecurity consultant based in Madrid, Spain, with over 5 years of experience in the field</h3>
 
-- 🔭 I’m currently working on [BNP Paribas](as Cybersecurity Consultant)
+- 🔭 I’m currently working on **BNP Paribas**
 
 - 🌱 I’m currently learning **about Data Science, Machine Learning, Neural Networks and Flutter & Firebase**
 
-- 📄 Know about my experiences [Cybersecurity Analist (DDoS Department) in Telxius and Cibersecurity Consultant (CISO Office) in BNP Paribas](Cybersecurity Analist (DDoS Department) in Telxius and Cibersecurity Consultant (CISO Office) in BNP Paribas)
+- 📄 Know about my experiences **Cybersecurity Analist (DDoS Department) in Telxius and Cybersecurity Consultant (CISO Office) in BNP Paribas**
 
 - ⚡ Fun fact **Outside of cybersecurity, my goal in life is to visit the Wonders of the world and read books on the road.**
 
